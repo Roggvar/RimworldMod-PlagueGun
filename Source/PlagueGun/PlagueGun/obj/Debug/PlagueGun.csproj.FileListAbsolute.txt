@@ -1,0 +1,4 @@
+C:\Users\vccas\Desktop\Carreira\Projetos\Mods\RImworld\Plague Gun\Assemblies\Plague.ThingDef_PlagueBullet.dll
+C:\Users\vccas\Desktop\Carreira\Projetos\Mods\RImworld\Plague Gun\Source\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.AssemblyReference.cache
+C:\Users\vccas\Desktop\Carreira\Projetos\Mods\RImworld\Plague Gun\Source\PlagueGun\PlagueGun\obj\Debug\PlagueGun.csproj.CoreCompileInputs.cache
+C:\Users\vccas\Desktop\Carreira\Projetos\Mods\RImworld\Plague Gun\Source\PlagueGun\PlagueGun\obj\Debug\Plague.ThingDef_PlagueBullet.dll
