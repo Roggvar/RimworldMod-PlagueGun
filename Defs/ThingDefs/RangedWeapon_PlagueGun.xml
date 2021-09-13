@@ -18,7 +18,7 @@
         
         <modExtensions>
             <li Class="PlagueGun.ModExtension_PlagueBullet">
-                <addHediffChance>0.05</addHediffChance>
+                <addHediffChance>1</addHediffChance>
                 <hediffToAdd>Plague</hediffToAdd>
             </li>
         </modExtensions>
