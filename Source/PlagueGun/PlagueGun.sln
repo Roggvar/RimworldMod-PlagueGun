@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlagueGun", "PlagueGun\PlagueGun.csproj", "{80BD0B62-F08A-4D17-9383-0E06F7F9CBF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlagueGun", "PlagueGun\PlagueGun.csproj", "{4B76EC0E-9C47-4A3F-9397-D2AB668A0E61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80BD0B62-F08A-4D17-9383-0E06F7F9CBF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80BD0B62-F08A-4D17-9383-0E06F7F9CBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80BD0B62-F08A-4D17-9383-0E06F7F9CBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80BD0B62-F08A-4D17-9383-0E06F7F9CBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B76EC0E-9C47-4A3F-9397-D2AB668A0E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B76EC0E-9C47-4A3F-9397-D2AB668A0E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B76EC0E-9C47-4A3F-9397-D2AB668A0E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B76EC0E-9C47-4A3F-9397-D2AB668A0E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {27757DC2-9D19-4CB8-8C5C-BB4DE7EC2F02}
+		SolutionGuid = {8D69AAFE-CB3C-4D26-93FD-95B341263B57}
 	EndGlobalSection
 EndGlobal

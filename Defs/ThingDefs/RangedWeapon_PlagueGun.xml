@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Defs>
-    <ThingDef Class="Plague.ThingDef_PlagueBullet" ParentName="BaseBullet">
+    <ThingDef ParentName="BaseBullet">
+        <thingClass>PlagueGun.Projectile_PlagueBullet</thingClass>
         <defName>Bullet_PlagueGun</defName>
         <label>plague gun bullet</label>
         <graphicData>
@@ -15,9 +16,12 @@
             <speed>55</speed>
         </projectile>
         
-        <addHediffChance>0.5</addHediffChance>
-        <hediffToAdd>Plague</hediffToAdd>
-        <thingClass>Plague.Projectile_PlagueBullet</thingClass>
+        <modExtensions>
+            <li Class="PlagueGun.ModExtension_PlagueBullet">
+                <addHediffChance>0.05</addHediffChance>
+                <hediffToAdd>Plague</hediffToAdd>
+            </li>
+        </modExtensions>
     </ThingDef>
 
     <ThingDef ParentName="BaseHumanMakeableGun">
